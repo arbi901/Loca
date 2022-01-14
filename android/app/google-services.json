@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50660671061",
+    "project_id": "loca-9fcfa",
+    "storage_bucket": "loca-9fcfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50660671061:android:39d843bd34a12b829a1edc",
+        "android_client_info": {
+          "package_name": "com.example.loca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50660671061-5ncn96iijknuml32b88s6u0jce7sfovg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWuDkGfTD4iQWtHuY2R1lUELXMtutq6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50660671061-5ncn96iijknuml32b88s6u0jce7sfovg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
